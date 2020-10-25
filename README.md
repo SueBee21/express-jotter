@@ -13,8 +13,8 @@ This application is developed to create and save notes.  The user requests an ap
   
   
   ## Installation
-  THe following Node dependencies are required: 
-  
+  The following Node dependencies are required: 
+
 express, path, uuid
   
   
